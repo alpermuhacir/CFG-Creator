@@ -1,0 +1,10 @@
+D:\Projects\c#\WriteCFG_for_csGO\WriteCFG_for_csGO\obj\Debug\WriteCFG_for_csGO.csprojResolveAssemblyReference.cache
+D:\Projects\c#\WriteCFG_for_csGO\WriteCFG_for_csGO\obj\Debug\WriteCFG_for_csGO.Form1.resources
+D:\Projects\c#\WriteCFG_for_csGO\WriteCFG_for_csGO\obj\Debug\WriteCFG_for_csGO.Properties.Resources.resources
+D:\Projects\c#\WriteCFG_for_csGO\WriteCFG_for_csGO\obj\Debug\WriteCFG_for_csGO.csproj.GenerateResource.Cache
+D:\Projects\c#\WriteCFG_for_csGO\WriteCFG_for_csGO\obj\Debug\WriteCFG_for_csGO.csproj.CoreCompileInputs.cache
+D:\Projects\c#\WriteCFG_for_csGO\WriteCFG_for_csGO\bin\Debug\WriteCFG_for_csGO.exe.config
+D:\Projects\c#\WriteCFG_for_csGO\WriteCFG_for_csGO\bin\Debug\WriteCFG_for_csGO.exe
+D:\Projects\c#\WriteCFG_for_csGO\WriteCFG_for_csGO\bin\Debug\WriteCFG_for_csGO.pdb
+D:\Projects\c#\WriteCFG_for_csGO\WriteCFG_for_csGO\obj\Debug\WriteCFG_for_csGO.exe
+D:\Projects\c#\WriteCFG_for_csGO\WriteCFG_for_csGO\obj\Debug\WriteCFG_for_csGO.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteCFG_for_csGO", "WriteCFG_for_csGO\WriteCFG_for_csGO.csproj", "{AB38B1AA-189E-47FD-9727-9B3418280A3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB38B1AA-189E-47FD-9727-9B3418280A3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB38B1AA-189E-47FD-9727-9B3418280A3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB38B1AA-189E-47FD-9727-9B3418280A3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB38B1AA-189E-47FD-9727-9B3418280A3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F1537FA-A3A3-475A-A1CC-4C7D667A0E79}
+	EndGlobalSection
+EndGlobal
